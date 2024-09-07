@@ -68,7 +68,36 @@ namespace E_Commerce.Controllers
 
             return Ok(new { Token = token });
         }
+        [HttpPost("Google")]
+        public IActionResult RegisterationFromGoogle([FromForm] RegisterGoogleDTO model)
+        {
+            var user = new User
+            {
+                Name = model.displayName,
+                Email = model.email,
+                Image = model.photoURL,
+            };
+            _db.Users.Add(user);
+            _db.SaveChanges();
+            return Ok(user);
+            
+        }
+        [HttpPost("CreatePassword")]
+        public IActionResult CreatePassword([FromForm]string displayName,[FromForm]string Password)
+        {
+            byte[] passwordHash, passwordSalt;
+            PasswordHasher.CreatePasswordHash(Password, out passwordHash, out passwordSalt);
 
+             var User=_db.Users.Where(x=>x.Name == displayName).FirstOrDefault();
+            User.PasswordHash = passwordHash;
+            User.PasswordSalt = passwordSalt;
+            User.Password = Password;
+
+
+            _db.Users.Update(User);
+            _db.SaveChanges();
+            return Ok(User);
+        }
 
 
     }
