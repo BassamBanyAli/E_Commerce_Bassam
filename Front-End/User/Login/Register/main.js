@@ -6,12 +6,12 @@ import {
 } from "https://www.gstatic.com/firebasejs/10.13.1/firebase-auth.js";
 
 const firebaseConfig = {
-  apiKey: "AIzaSyAv5vCoLdqubm_IJAOjNlgF7o9zo-1-VfE",
-  authDomain: "login-3e8e4.firebaseapp.com",
-  projectId: "login-3e8e4",
-  storageBucket: "login-3e8e4.appspot.com",
-  messagingSenderId: "251369161445",
-  appId: "1:251369161445:web:ef0c157a6b0cdcdb1a0a0c",
+  apiKey: "AIzaSyAtGnVSesTU04x0JIjr-0scSNV8h0wKN84",
+  authDomain: "best-team-173b4.firebaseapp.com",
+  projectId: "best-team-173b4",
+  storageBucket: "best-team-173b4.appspot.com",
+  messagingSenderId: "347062803002",
+  appId: "1:347062803002:web:ac1fa2f00439420013f303"
 };
 
 const app = initializeApp(firebaseConfig);

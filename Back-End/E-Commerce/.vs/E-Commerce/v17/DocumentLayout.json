@@ -7,12 +7,84 @@
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\users_bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\createpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\createpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\dtosotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\dtosotp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\dtoslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\dtoslogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\emailservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\emailservicecs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\dtoseditpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\dtoseditpassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\dtoscategory_bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\dtoscategory_bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\dtoscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\dtoscategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\createpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\createpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\otpgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\e-commerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\registergoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\registergoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\controllers\\categories_bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\controllers\\categories_bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\saveimagebassam\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\saveimagebassam\\saveimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,36 +98,8 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\registergoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\registergoogledto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\e-commerce.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\models\\mydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -64,9 +108,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|c:\\users\\orange\\source\\repos\\e-commerce\\e-commerce\\e_commerce_bassam\\back-end\\e-commerce\\e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{264D65DF-381B-4534-BC04-D33FEAAB1979}|E-Commerce\\E-Commerce.csproj|solutionrelative:e-commerce\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Orange\\Desktop\\yaman\\TestGitHubThings\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -76,8 +117,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 14,
+          "SelectedChildIndex": 27,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "SaveImage.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\SaveImageBassam\\SaveImage.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\SaveImageBassam\\SaveImage.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\SaveImageBassam\\SaveImage.cs",
+              "RelativeToolTip": "E-Commerce\\SaveImageBassam\\SaveImage.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAzwA8AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:52:50.042Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "E-Commerce\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
+              "RelativeToolTip": "E-Commerce\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAIAAAAAAAAAAMBdwBIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-06T16:36:43.48Z",
+              "IsPinned": true
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
@@ -96,37 +163,170 @@
             },
             {
               "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DTOsOTP.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsOTP.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\DTOsOTP.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsOTP.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\DTOsOTP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T13:39:35.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DTOsEditPassword.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsEditPassword.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\DTOsEditPassword.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsEditPassword.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\DTOsEditPassword.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T12:11:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "OtpGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\OtpGenerator.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\OtpGenerator.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\OtpGenerator.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\OtpGenerator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T08:00:34.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\SmtpSettings.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\SmtpSettings.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T07:27:26.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "E-Commerce.http",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.http",
+              "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.http",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.http",
+              "RelativeToolTip": "E-Commerce\\E-Commerce.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-08T07:01:01.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\EmailRequest.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\EmailRequest.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\EmailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:59:36.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmailServicecs.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\EmailServicecs.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\EmailServicecs.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\EmailServicecs.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\EmailServicecs.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAwwCsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:56:09.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTOsCategory.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsCategory.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\DTOsCategory.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsCategory.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\DTOsCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T21:18:33.746Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DTOsCategory_Bassam.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsCategory_Bassam.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\DTOs\\DTOsCategory_Bassam.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsCategory_Bassam.cs",
+              "RelativeToolTip": "E-Commerce\\DTOs\\DTOsCategory_Bassam.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:41:10.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Categories_Bassam.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Categories_Bassam.cs",
+              "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Categories_Bassam.cs",
+              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Categories_Bassam.cs",
+              "RelativeToolTip": "E-Commerce\\Controllers\\Categories_Bassam.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAIwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T14:14:43.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "CreatePasswordDTO.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\CreatePasswordDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\CreatePasswordDTO.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\CreatePasswordDTO.cs",
               "RelativeToolTip": "E-Commerce\\DTOs\\CreatePasswordDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T00:07:01.51Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 23,
               "Title": "Users_Bassam.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs",
-              "ToolTip": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs [Read Only]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs [Read Only]",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAADYAAAAbAAAA",
+              "ToolTip": "C:\\Users\\Orange\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\eca833c3d5af16f6e321e8dceb6e96f137023b85dd99a9b7b70120b0d2e892c1\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAIBZwDYAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T23:00:49.946Z",
-              "EditorCaption": " [Read Only]"
+              "WhenOpened": "2024-09-06T23:00:49.946Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 16,
               "Title": "RegisterGoogleDTO.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\RegisterGoogleDTO.cs",
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\RegisterGoogleDTO.cs",
@@ -134,8 +334,7 @@
               "RelativeToolTip": "E-Commerce\\DTOs\\RegisterGoogleDTO.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T22:42:17.785Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T22:42:17.785Z"
             },
             {
               "$type": "Document",
@@ -145,32 +344,32 @@
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\DTOsLogin.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\DTOsLogin.cs",
               "RelativeToolTip": "E-Commerce\\DTOs\\DTOsLogin.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:10:52.156Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 17,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\User.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Models\\User.cs",
               "RelativeToolTip": "E-Commerce\\Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:06:44.706Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 12,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\PasswordHasher.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\PasswordHasher.cs",
               "RelativeToolTip": "E-Commerce\\DTOs\\PasswordHasher.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAUwB0AAAATAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswCQAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T19:05:26.236Z",
               "EditorCaption": ""
@@ -183,13 +382,14 @@
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\UserDTO.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\UserDTO.cs",
               "RelativeToolTip": "E-Commerce\\DTOs\\UserDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAsAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T19:03:33.767Z"
+              "WhenOpened": "2024-09-06T19:03:33.767Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 20,
               "Title": "TokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\DTOs\\TokenGenerator.cs",
               "RelativeDocumentMoniker": "E-Commerce\\DTOs\\TokenGenerator.cs",
@@ -201,7 +401,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 24,
               "Title": "E-Commerce.csproj",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\E-Commerce.csproj",
               "RelativeDocumentMoniker": "E-Commerce\\E-Commerce.csproj",
@@ -219,51 +419,26 @@
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\Users_Bassam.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\Users_Bassam.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\Users_Bassam.cs",
-              "ViewState": "AQIAAE0AAAAAAAAAAAASwFYAAAAIAAAA",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAcwEIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-06T18:30:14.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "E-Commerce\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Properties\\launchSettings.json",
-              "RelativeToolTip": "E-Commerce\\Properties\\launchSettings.json",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T16:36:43.48Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "ToolTip": "C:\\Users\\Orange\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Desktop\\yaman\\TestGitHubThings\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T14:56:30.581Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 21,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\HomeController.cs",
               "RelativeToolTip": "E-Commerce\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAIBJwAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T13:10:00.185Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T13:10:00.185Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 22,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Controllers\\WeatherForecastController.cs",
@@ -271,36 +446,37 @@
               "RelativeToolTip": "E-Commerce\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AQIAAAwAAAAAAAAAAAAqwBoAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T12:19:47.2Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-06T12:19:47.2Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
               "RelativeDocumentMoniker": "E-Commerce\\appsettings.json",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\appsettings.json",
               "RelativeToolTip": "E-Commerce\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABkAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-06T10:41:31.052Z"
+              "WhenOpened": "2024-09-06T10:41:31.052Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Program.cs",
               "RelativeToolTip": "E-Commerce\\Program.cs",
-              "ViewState": "AQIAADYAAAAAAAAAAAAAwEMAAAArAAAA",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAACEAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-06T10:41:07.467Z"
+              "WhenOpened": "2024-09-06T10:41:07.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 25,
               "Title": "MyDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\source\\repos\\E-commerce\\E-Commerce\\E_Commerce_Bassam\\Back-End\\E-Commerce\\E-Commerce\\Models\\MyDbContext.cs",
               "RelativeDocumentMoniker": "E-Commerce\\Models\\MyDbContext.cs",

@@ -552,3 +552,8 @@ C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-
 C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.pdb
 C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\obj\Debug\net8.0\E-Commerce.genruntimeconfig.cache
 C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\obj\Debug\net8.0\ref\E-Commerce.dll
+C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Facebook.dll
+C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\bin\Debug\net8.0\MailKit.dll
+C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\bin\Debug\net8.0\MimeKit.dll
+C:\Users\Orange\source\repos\E-commerce\E-Commerce\E_Commerce_Bassam\Back-End\E-Commerce\E-Commerce\bin\Debug\net8.0\System.Formats.Asn1.dll

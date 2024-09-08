@@ -20,7 +20,11 @@ builder.Services.AddSwaggerGen();
 builder.Services.AddDbContext<MyDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("YourConnectionString")));
 
+builder.Services.AddTransient<EmailService>(); // Register your EmailService
+builder.Services.AddControllers();
 
+// Add configuration for SMTP settings
+builder.Services.Configure<SmtpSettings>(builder.Configuration.GetSection("SmtpSettings"));
 
 
 
@@ -74,6 +78,19 @@ options.AddPolicy("Development", builder =>
 
 
 );
+
+
+builder.Services.AddAuthentication(options =>
+{
+    options.DefaultAuthenticateScheme = "Facebook";
+    options.DefaultChallengeScheme = "Facebook";
+})
+.AddFacebook(opt =>
+{
+    opt.ClientId = "your-facebook-client-id";
+    opt.ClientSecret = "your-facebook-client-secret";
+});
+
 
 var app = builder.Build();
 
